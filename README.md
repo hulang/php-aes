@@ -1,4 +1,5 @@
 ### 使用AES加密算法进行数据加密和解密
+PHP版本>=7.2.0
 
 ### 使用composer进行安装
 ~~~
@@ -10,12 +11,7 @@ composer require hulang/php-aes
 composer update hulang/php-aes
 ~~~
 
-### 引入类文件
-~~~
-use hulang/Aes;
-~~~
-
-### 使用说明
+### 引入命名空间
 ~~~
 use hulang/Aes;
 $aes = new Aes('密匙');
