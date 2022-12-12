@@ -1,7 +1,6 @@
 {
     "name": "hulang/php-aes",
     "description": "PHP Encryption and decryption Class",
-    "version": "1.0.2",
     "authors": [{
         "name": "hulang",
         "email": "hulangfy@163.com"
